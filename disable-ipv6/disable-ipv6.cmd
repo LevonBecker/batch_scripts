@@ -6,7 +6,7 @@ REM  TITLE:    Disable-IPv6
 REM  AUTHOR:   Levon Becker
 REM  VERSION:  1.0.0
 REM  DATE:     03/05/2012
-REM  LINK:     http://wiki.bonusbits.com/wiki/HowTo:Disable_IPv6_on_Windows
+REM  LINK:     http://wiki.bonusbits.com/wiki/HowTo:Disable_IPv6_on_Windows_with_Batch_Script
 REM ********************************************************
 
 :VARIABLES

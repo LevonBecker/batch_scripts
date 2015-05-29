@@ -6,7 +6,7 @@ This Batch script can be used to disable IPv6 on Windows 7 and 2008R2.
 
 ## Usage
 
-http://www.bonusbits.com/wiki/HowTo:Disable_IPv6_on_Windows
+http://www.bonusbits.com/wiki/HowTo:Disable_IPv6_on_Windows_with_Batch_Script
 
 ## Disclaimer
 
