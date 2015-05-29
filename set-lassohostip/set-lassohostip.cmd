@@ -99,7 +99,3 @@ REM ECHO        COMPLETED
 ECHO.
 PAUSE
 exit
-
-:CHANGELOG
-REM 1.000 - 03/12/2012
-REM             Created.
